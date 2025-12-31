@@ -5,7 +5,6 @@
 * **imane rhanebou** 
 * **Mohamed Zarki**
 * **ABDALLAOUI ALAOUI MOHAMED**
-* **Nom Prénom 4**
 # Système de Gestion de Parking Intelligent (Smart Parking System)
 
 Ce projet implémente une simulation de gestion de parking intelligent, incluant des véhicules électriques (EV) et des zones de recharge, en utilisant les principes de la **Programmation Orientée Objet (POO)** en C++ et la bibliothèque graphique **Raylib** pour la visualisation 2D.
@@ -44,4 +43,5 @@ make demo
 ./smart_parking_demo
 ## 🎬 Démonstration
 [Cliquez ici pour voir la vidéo de démonstration]
+
 https://drive.google.com/file/d/1qqBNDfhHjkhifUghRueCtFLiz-fj55cg/view?usp=sharing
